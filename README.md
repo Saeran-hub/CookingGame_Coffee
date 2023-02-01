@@ -14,4 +14,4 @@
   
   Singleton Pattern:Easy to access and manipulate all kinds of information in the game, such as: beverage composition, current date.
 ## How to play 
-See the video 
+See the video and Description1.png.
