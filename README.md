@@ -10,7 +10,8 @@
 ## About Gamepics
   Used a modified version of some characters from Danganronpa and its fans work.I will replace them if I have time to paint some.
 ## Used Patterns
-  Command Patterns:
+  Command Patterns:The player clicks buttons to generate different commands to be executed by a unified handler class: place drinks, add ice, heat, talk, etc.
+  
   Singleton Pattern:Easy to access and manipulate all kinds of information in the game, such as: beverage composition, current date.
 ## How to play 
 See the video 
